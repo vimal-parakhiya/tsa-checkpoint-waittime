@@ -16983,8 +16983,8 @@
 
           {
             "id": 32,
-            "longname": "T North Checkpoint",
-            "shortname": "T North Checkpoint",
+            "longname": "Domestic T North Checkpoint",
+            "shortname": "Domestic T North Checkpoint",
             "precheck": true,
             "precheckMilitary": false,
             "precheckCarriers": [
@@ -17007,8 +17007,8 @@
           },
           {
             "id": 33,
-            "longname": "T South Checkpoint",
-            "shortname": "T South Checkpoint",
+            "longname": "Domestic T South Checkpoint",
+            "shortname": "Domestic T South Checkpoint",
             "precheck": true,
             "precheckMilitary": false,
             "precheckCarriers": [
